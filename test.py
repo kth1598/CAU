@@ -1,5 +1,5 @@
 def hello():
-	print("Hello, KimTaeHyun!")
+	print("Hello, TaeHyun!")
 
 
 hello()
